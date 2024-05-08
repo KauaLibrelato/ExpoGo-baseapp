@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expogobaseapp",
-    "slug": "expogobaseapp",
+    "name": "FitTrack",
+    "slug": "FitTrack",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
